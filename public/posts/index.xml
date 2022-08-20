@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Blog a Pedal</title>
+        <link>/posts/</link>
+        <description>All Posts | Blog a Pedal</description>
+        <generator>Hugo -- gohugo.io</generator><language>es-ar</language><lastBuildDate>Sat, 25 Jun 2022 18:59:46 -0300</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Pedalear</title>
+    <link>/posts/pedalear/</link>
+    <pubDate>Sat, 25 Jun 2022 18:59:46 -0300</pubDate>
+    <author>Ezequiel Cardoso</author>
+    <guid>/posts/pedalear/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

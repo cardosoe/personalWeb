@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Series - series - Blog a Pedal</title>
+        <link>/series/</link>
+        <description>Series - series - Blog a Pedal</description>
+        <generator>Hugo -- gohugo.io</generator><language>es-ar</language><atom:link href="/series/" rel="self" type="application/rss+xml" /></channel>
+</rss>

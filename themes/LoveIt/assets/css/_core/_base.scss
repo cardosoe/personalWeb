@@ -11,10 +11,6 @@ html {
   main [id] {
     scroll-margin-top: calc(var(--header-height) + .5rem);
   }
-
-  h1 {
-    line-height: 125%;
-  }
 }
 
 /* scrollbar, only support webkit */

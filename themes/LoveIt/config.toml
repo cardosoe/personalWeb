@@ -20,10 +20,10 @@
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "My cool site"
+  title = "Blog a pedal"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "This is my cool site"
+  description = "Este es mi blog a pedal"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -42,10 +42,10 @@
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = ""
+      logo = "https://www.nicepng.com/png/detail/294-2942432_mountain-bike-silhouette-public-domain-vectors-silueta-de.png"
       # title name
       # 标题名称
-      name = "My cool site"
+      name = "Blog a pedal"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -68,11 +68,12 @@
     hugo = true
     # whether to show copyright info
     # 是否显示版权信息
-    copyright = true
+   # copyright = true
     # whether to show the author
     # 是否显示作者
-    author = true
-    # site creation time
+   # author = true
+    author = "Ezequiel Cardoso"   
+   # site creation time
     # 网站创立年份
     since = 2022
     # ICP info only in China (HTML format is supported)
@@ -80,7 +81,11 @@
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    license= ""
+   # license= ""
+
+    copyright = "Ezequiel Cardoso"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
@@ -113,7 +118,7 @@
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "My cool site"
+    title = "Mi blog a pedal"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -133,7 +138,7 @@
   # Search config
   # 搜索配置
   [params.search]
-    enable = false
+    enable = true
     # type of search engine ["lunr", "algolia"]
     # 搜索引擎的类型 ["lunr", "algolia"]
     type = "lunr"
@@ -142,7 +147,7 @@
     contentLength = 4000
     # placeholder of the search bar
     # 搜索框的占位提示语
-    placeholder = ""
+    placeholder = "su busqueda"
     # max number of results length
     # 最大结果数目
     maxResultLength = 10
@@ -175,13 +180,13 @@
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = ""
+      avatarURL = "/assets/toonme.jpg"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = ""
+      title = "blog a pedal"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "This is my cool site"
+      subtitle = "Este es mi blog a pedal"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -201,8 +206,8 @@
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = ""
-    Linkedin = ""
+    GitHub = "cardosoe"
+    Linkedin = "ezequielcardoso/"
     Twitter = ""
     Instagram = ""
     Facebook = ""
@@ -233,7 +238,7 @@
     Paypal = ""
     Fivehundredpx = ""
     Mix = ""
-    Goodreads = ""
+    Goodreads = "142423687-ezequiel-cardoso"
     Lastfm = ""
     Foursquare = ""
     Hackernews = ""
@@ -241,7 +246,7 @@
     Patreon = ""
     Steam = ""
     Twitch = ""
-    Strava = ""
+    Strava = "103587520"
     Skype = ""
     Whatsapp = ""
     Zhihu = ""
@@ -258,12 +263,12 @@
     Researchgate = ""
     Mastodon = ""
     Thingiverse = ""
-    Devto = ""
+    Devto = "eze_cardoso"
     Gitea = ""
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Discord = ""
+    Discord = "#5737"
     DiscordInvite = ""
     Lichess = ""
     ORCID = ""
