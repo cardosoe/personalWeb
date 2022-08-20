@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'http://www.ezequielcardoso.com'
 languageCode = 'es-ar'
 title = 'Blog a Pedal'
 theme = "LoveIt"
